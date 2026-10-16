@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure-to-Snowflake Data Pipeline (Beginner Portfolio Project)
 
 A beginner-friendly data engineering portfolio project that demonstrates:
@@ -143,3 +144,7 @@ After you have personally run each step, add:
 ## 8. Project limitations / next steps
 
 This is a portfolio starter project, not a production-ready enterprise pipeline. Next improvements could include incremental loads, logging, retries, schema-drift handling, orchestration schedules, automated tests, and role-based access controls.
+=======
+# azure-snowflake-data-pipeline
+Python ETL pipeline with CSV data cleaning, data-quality checks, and Snowflake SQL examples.
+>>>>>>> 88e2136a1700b054d9d91086daae3a53591bfdf6
