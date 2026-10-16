@@ -1,0 +1,14 @@
+order_id,order_date,customer_id,customer_name,product,quantity,unit_price,region
+1001,2026-09-01,C001,Asha,Keyboard,2,850,South
+1002,2026-09-02,C002,Rahul,Mouse,3,450,West
+1003,2026-09-02,C003,Meera,Monitor,1,7800,South
+1004,2026-09-03,C004,Imran,USB Cable,5,150,North
+1005,2026-09-04,C005,Divya,Keyboard,1,850,East
+1002,2026-09-02,C002,Rahul,Mouse,3,450,West
+1006,not-a-date,C006,Kiran,Monitor,1,7800,South
+1007,2026-09-06,,Unknown,Mouse,2,450,West
+1008,2026-09-07,C008,Nisha,USB Cable,-1,150,East
+1009,2026-09-08,C009,Arun,Keyboard,2,850,South
+1010,2026-09-09,C010,Sara,Monitor,1,7800,North
+1011,2026-09-10,C011,John,Mouse,4,450,West
+1012,2026-09-11,C012,Leela,USB Cable,3,150,South
